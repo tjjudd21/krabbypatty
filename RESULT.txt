@@ -1,0 +1,143 @@
+
+
+_  _   ____   _  _    ___   _____  _  _     _  _   ____     _    ___  
+) |) / /  _ \ ) () (  (  _( )__ __() () (   ) |) / /  _ \   )_\  \  _)
+| ( (  )  ' / | \/ |  _) \    | |  '.  /    | ( (  )  ' /  /( )\ |  ( 
+)_|)_\ |_()_\ )____( )____)   )_(   /_(     )_|)_\ |_()_\ )_/ \_(/__o)
+
+Welcome to the Krusty Krab!
+Choose one of the following options:
+1.  Enter customer data.
+2.  Remove a customer's data.
+3.  Get statistics on Krabby Patties.
+4.  Search for a customer's data.
+5.  End Program.
+ENTER 1-5:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  NUMBER KRABBY PATTIES EATEN:  Enter a customer's name or -1 to quit entering data.
+NAME:  
+Welcome to the Krusty Krab!
+Choose one of the following options:
+1.  Enter customer data.
+2.  Remove a customer's data.
+3.  Get statistics on Krabby Patties.
+4.  Search for a customer's data.
+5.  End Program.
+ENTER 1-5:  
+
+Display the balanced BST horizontally:
+
+                                Sq
+                        Sp
+                                        Sh
+                                Sa
+                                        Pe
+                Pa
+Root -> Mr
+                                Me
+                                                Ma
+                                        La
+                        Ka
+                Ga
+                                Fl
+                        Eu
+                                        Di
+                                Ba
+Welcome to the Krusty Krab!
+Choose one of the following options:
+1.  Enter customer data.
+2.  Remove a customer's data.
+3.  Get statistics on Krabby Patties.
+4.  Search for a customer's data.
+5.  End Program.
+ENTER 1-5:  
+
+LEAST NUMBER OF KRABBY PATTIES EATEN:  Gary the Snail, 1 Krabby Patties
+LARGEST NUMBER OF KRABBY PATTIES EATEN:  SpongeBob Squarepants, 855 Krabby Patties
+TOTAL NUMBER OF KRABBY PATTIES EATEN:  1348
+
+Welcome to the Krusty Krab!
+Choose one of the following options:
+1.  Enter customer data.
+2.  Remove a customer's data.
+3.  Get statistics on Krabby Patties.
+4.  Search for a customer's data.
+5.  End Program.
+ENTER 1-5:  
+
+Which customer are you looking for?
+Barnacle Boy
+Dirty Bubble
+Eugene H. Krabs
+Flying Dutchman
+Gary the Snail
+Karen Plankton
+Larry the Lobster
+Man Ray
+Mermaid Man
+Mrs. Puff
+Patrick Star
+Pearl Krabs
+Sandy Cheeks
+Sheldon J. Plankton
+SpongeBob Squarepants
+Squidward Tentacles
+Enter the name of the customer.
+NAME:  
+Sandy Cheeks ate 12 Krabby Patties
+
+Welcome to the Krusty Krab!
+Choose one of the following options:
+1.  Enter customer data.
+2.  Remove a customer's data.
+3.  Get statistics on Krabby Patties.
+4.  Search for a customer's data.
+5.  End Program.
+ENTER 1-5:  
+
+Which customer are you looking for?
+Barnacle Boy
+Dirty Bubble
+Eugene H. Krabs
+Flying Dutchman
+Gary the Snail
+Karen Plankton
+Larry the Lobster
+Man Ray
+Mermaid Man
+Mrs. Puff
+Patrick Star
+Pearl Krabs
+Sandy Cheeks
+Sheldon J. Plankton
+SpongeBob Squarepants
+Squidward Tentacles
+Enter the name of the customer.
+NAME:  
+Bob Ross is not a customer of the Krusty Krab.
+
+Welcome to the Krusty Krab!
+Choose one of the following options:
+1.  Enter customer data.
+2.  Remove a customer's data.
+3.  Get statistics on Krabby Patties.
+4.  Search for a customer's data.
+5.  End Program.
+ENTER 1-5:  
+
+Goodbye!
+

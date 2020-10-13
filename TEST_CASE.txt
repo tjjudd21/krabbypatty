@@ -1,0 +1,43 @@
+1
+SpongeBob Squarepants
+855
+Eugene H. Krabs
+2
+Patrick Star
+182
+Squidward Tentacles
+18
+Sandy Cheeks
+12
+Mrs. Puff
+34
+Pearl Krabs
+3
+Gary the Snail
+1
+Sheldon J. Plankton
+7
+Karen Plankton
+5
+Mermaid Man
+89
+Barnacle Boy
+19
+Flying Dutchman
+93
+Larry the Lobster
+8
+Man Ray
+6
+Dirty Bubble
+14
+-1
+2
+3
+4
+Sandy Cheeks
+4
+Bob Ross
+5
+
+
